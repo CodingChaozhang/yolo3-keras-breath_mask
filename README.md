@@ -7,7 +7,6 @@
 
 ## 效果展示
 
-![no_mask_sample](img/1_output.jpg)
 
 ![have_mask_sample](img/3_output.jpg)
 
@@ -16,7 +15,7 @@
 `工欲善其事必先利其器`
 
 - **Python：** 3.7.4
-- **Tensorflow-GPU：**1.14.0
+- **Tensorflow-GPU** 1.14.0
 - **Keras:** 2.2.4
 
 ## 数据集
