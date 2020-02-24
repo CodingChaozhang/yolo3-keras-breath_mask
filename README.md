@@ -34,8 +34,8 @@
 VOCdevkit
 	-VOC2007
 		├─ImageSets    # 存放数据集列表文件，由voc2yolo3.py文件生成
-		├─Annotations  # 存放数据集中图片文件
-		├─JPEGImages   # 存放图片标签，xml 格式
+		├─Annotations  # 存放图片标签，xml 格式
+		├─JPEGImages   # 存放数据集中图片文件
 		└─voc2yolo3.py # 用来生成数据集列表文件
 ```
 
