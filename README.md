@@ -44,7 +44,7 @@ VOCdevkit
 
 ### 生成YOLOV3所需数据
 
-在根目录下，运行 `python voc_annotation.py`，程序将在根目录下生成用于训练所需的数据列表。
+在根目录下，运行 `python voc_annotation.py`，程序将在根目录下生成用于训练所需的数据列表，运行前记得修改voc_annotation.py中的classes
 
 ### YOLOv3训练
 
